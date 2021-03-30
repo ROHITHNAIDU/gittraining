@@ -6,3 +6,4 @@ line 5 from local
 line 5 from github
 new line from bugfix branch
 line from master branch
+line from bugfix b
